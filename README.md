@@ -1,7 +1,7 @@
 <!-- ![Banner](/assets/bg.png) -->
 
 <!-- welcome message -->
-<h2>Assalamu Alaikum, I am Aminur Rahman. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
+<h2>Hello, I am Aminur Rahman. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
 ## I am a JavaScript Lover 😍😍
 
