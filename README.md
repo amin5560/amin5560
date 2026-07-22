@@ -68,12 +68,6 @@ Today, I bridge the gap between business stakeholders and technical teams, turni
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
----
-
-### 🎓 Currently Studying
-
-Post Graduate Diploma in Information Technology (PGDIT) — **Jahangirnagar University**
-Strengthening my expertise in software engineering, project management, and emerging technologies to make better technical decisions and deliver greater business value.
 
 ---
 
@@ -93,7 +87,3 @@ Strengthening my expertise in software engineering, project management, and emer
 <p align="center">
 <i>"Great Project Managers don't simply manage projects. They create clarity, build trust, remove obstacles, and enable people to do their best work."</i>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amin5560&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="Aminur Rahman" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amin5560&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="Aminur Rahman" /></p>
